@@ -1,7 +1,3 @@
-Here’s a sample `README.md` markdown file for your GitHub repository that explains the purpose and usage of your environment variable parsing script using the `Env` class with robust data validation via Pydantic.
-
----
-
 # Env Parser with Pydantic Validation
 
 This Python script provides a robust and customizable environment variable parser, leveraging **Pydantic** for data validation and type casting. It allows you to load, validate, and convert environment variables from a `.env` file into strongly typed values (e.g., integers, floats, dates, lists) with the ability to add custom parsers for additional flexibility.
